@@ -1,0 +1,10 @@
+#main-header{
+    text-align: center;
+    background-color: blue;
+    color: green;
+    padding: 10px;
+}
+#main-footer{
+    text-align: center;
+    font-size: 18px;
+}
